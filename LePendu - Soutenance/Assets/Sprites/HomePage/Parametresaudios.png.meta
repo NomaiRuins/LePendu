@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 16b2c85a405296e46af6e4499ca4d584
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4141102680263539033
+    second: Parametresaudios_0
+  - first:
+      213: 7009177226272198926
+    second: Parametresaudios_1
+  - first:
+      213: -8219423798888110031
+    second: Parametresaudios_2
+  - first:
+      213: -6868652655671934411
+    second: Parametresaudios_3
+  - first:
+      213: -8881816259020068806
+    second: Parametresaudios_4
+  - first:
+      213: -1395948086231187539
+    second: Parametresaudios_5
+  - first:
+      213: -7373253542262914082
+    second: Parametresaudios_6
+  - first:
+      213: 526618183577823235
+    second: Parametresaudios_7
+  - first:
+      213: -8887486934385662719
+    second: Parametresaudios_8
+  - first:
+      213: 3018743512062838300
+    second: Parametresaudios_9
+  - first:
+      213: 1073465580606377131
+    second: Parametresaudios_10
+  - first:
+      213: -8336094350580501614
+    second: Parametresaudios_11
+  - first:
+      213: 3261822338260535598
+    second: Parametresaudios_12
+  - first:
+      213: 1361929561775817996
+    second: Parametresaudios_13
+  - first:
+      213: -8434970313471406626
+    second: Parametresaudios_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Parametresaudios_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 731
+        width: 508
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959b68b72f6287930800000000000000
+      internalID: 4141102680263539033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parametresaudios_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 455
+        width: 87
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0156b31d89954160800000000000000
+      internalID: 7009177226272198926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parametresaudios_2
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 833
+        width: 208
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138e1e07a9dbeed80800000000000000
+      internalID: -8219423798888110031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parametresaudios_3
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 577
+        width: 205
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53281252dc4ada0a0800000000000000
+      internalID: -6868652655671934411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parametresaudios_4
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 591
+        width: 177
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38e1d89b237db480800000000000000
+      internalID: -8881816259020068806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parametresaudios_5
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 642
+        width: 285
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafbd439c9890ace0800000000000000
+      internalID: -1395948086231187539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parametresaudios_6
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 870
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3478ee7f0fca990800000000000000
+      internalID: -7373253542262914082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parametresaudios_7
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 520
+        width: 289
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308ea64a27cee4700800000000000000
+      internalID: 526618183577823235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parametresaudios_8
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 517
+        width: 183
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105640a98bd49a480800000000000000
+      internalID: -8887486934385662719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parametresaudios_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 547
+        width: 240
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c164580fa3bb4e920800000000000000
+      internalID: 3018743512062838300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parametresaudios_10
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 549
+        width: 328
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacc6a21247b5ee00800000000000000
+      internalID: 1073465580606377131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parametresaudios_11
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 570
+        width: 189
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293328bca5e305c80800000000000000
+      internalID: -8336094350580501614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parametresaudios_12
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 556
+        width: 450
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2904708222544d20800000000000000
+      internalID: 3261822338260535598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parametresaudios_13
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 621
+        width: 156
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0540ca78bb86e210800000000000000
+      internalID: 1361929561775817996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parametresaudios_14
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 623
+        width: 295
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd4296b037f0fa80800000000000000
+      internalID: -8434970313471406626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Parametresaudios_0: 4141102680263539033
+      Parametresaudios_1: 7009177226272198926
+      Parametresaudios_10: 1073465580606377131
+      Parametresaudios_11: -8336094350580501614
+      Parametresaudios_12: 3261822338260535598
+      Parametresaudios_13: 1361929561775817996
+      Parametresaudios_14: -8434970313471406626
+      Parametresaudios_2: -8219423798888110031
+      Parametresaudios_3: -6868652655671934411
+      Parametresaudios_4: -8881816259020068806
+      Parametresaudios_5: -1395948086231187539
+      Parametresaudios_6: -7373253542262914082
+      Parametresaudios_7: 526618183577823235
+      Parametresaudios_8: -8887486934385662719
+      Parametresaudios_9: 3018743512062838300
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
